@@ -8,13 +8,18 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace OBS
+namespace OBS.View
 {
-    public partial class Form1 : Form
+    public partial class LogInPage : Form
     {
-        public Form1()
+        public LogInPage()
         {
             InitializeComponent();
+        }
+
+        private void LogInPage_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

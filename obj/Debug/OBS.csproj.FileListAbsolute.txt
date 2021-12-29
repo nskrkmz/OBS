@@ -1,0 +1,9 @@
+D:\workspace\OBS-VTYS\OBS\bin\Debug\OBS.exe.config
+D:\workspace\OBS-VTYS\OBS\bin\Debug\OBS.exe
+D:\workspace\OBS-VTYS\OBS\bin\Debug\OBS.pdb
+D:\workspace\OBS-VTYS\OBS\obj\Debug\OBS.csproj.AssemblyReference.cache
+D:\workspace\OBS-VTYS\OBS\obj\Debug\OBS.Properties.Resources.resources
+D:\workspace\OBS-VTYS\OBS\obj\Debug\OBS.csproj.GenerateResource.cache
+D:\workspace\OBS-VTYS\OBS\obj\Debug\OBS.csproj.CoreCompileInputs.cache
+D:\workspace\OBS-VTYS\OBS\obj\Debug\OBS.exe
+D:\workspace\OBS-VTYS\OBS\obj\Debug\OBS.pdb
